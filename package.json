@@ -1,5 +1,5 @@
 {
-  "name": "@campfire-technology-llc/react-native-text-size",
+  "name": "@tabbed-inc/react-native-text-size",
   "version": "4.0.4",
   "description": "Measure text accurately before laying it out and get font information from your App",
   "main": "index.js",
